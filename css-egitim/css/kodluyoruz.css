@@ -1,8 +1,24 @@
+/*
+    Açıklama Satırı
+
+    ctrl + ö -> yorum satırı yapar
+*/
+
+body{
+    background-color:rgb(107, 112, 30);
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h2{
     color: coral;
     font-size: 64px;
+    text-transform: uppercase;
 }
 p{
-    color:rgb(52, 50, 153);
+    color:rgb(28, 94, 26);
     font-size: 32px;
+}
+
+ul{
+    color: blue;
 }
