@@ -4,35 +4,35 @@
     id -> #id-bilgisi {}
 */
 
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6 {
     color: #2c2c22;
 }
 
-h1{
+h1 {
     font-size: 30px;
     
 }
 
-#first-article{
+#first-article {
     font-size: 40px;
 }
 
-p{
+p {
     font-size: 20px;
 }
 
-.text-red{
+.text-red {
     color:red;
 }
 
-.fs-14{
+.fs-14 {
     font-size: 14px;
 }
 
-.fs-30{
+.fs-30 {
     font-size: 30px;
 }
 
-.fs-42{
+.fs-42 {
     font-size: 42px;
 }
