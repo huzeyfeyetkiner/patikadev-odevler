@@ -4,6 +4,25 @@
     id -> #id-bilgisi {}
 */
 
+/*
+li:last-child {
+    color:blueviolet;
+}
+
+li:first-child {
+    color:coral;
+}
+*/
+
+/* li:nth-child(3) {
+    color:crimson;
+    font-weight: bold;
+} */
+
+li:nth-child(even) {
+    color:darkgreen;
+}
+
 h1,h2,h3,h4,h5,h6 {
     color: #2c2c22;
 }
@@ -35,4 +54,14 @@ p {
 
 .fs-42 {
     font-size: 42px;
+}
+/*biri olmadan diğeri çalışmıyor*/
+.color-blue.fw-normal {
+    color: blue;
+    font-weight: normal;
+}
+
+.color-red .fw-bold{
+    color : red;
+    font-weight: bold;
 }
