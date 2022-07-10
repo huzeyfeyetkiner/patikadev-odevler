@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card {
+    float: left;
+    width: 20%;
+    height: 100px;    
+    padding: 50px 20px;   
+    margin-left: 10px;     
+}
+
+.search {
+    background-color: rgb(238, 238, 238);
+    text-align: center;    
+    margin-bottom: 1px;
+}
+
+.clear {
+    clear: both;
+}
+
+section {
+    margin: 10px 50px;
+}
+
+.first {
+    background-color: rgb(126, 229, 218);
+    width: 15%;
+    float: left;
+    height: 100px;
+    margin-right: 1px;
+    
+}
+
+.second {
+    float:left;
+    background-color: rgb(112, 204, 194);
+    width: 60%;
+    height: 100px;
+    margin-right: 1px;
+}
+
+.third {
+    float: left;
+    background-color: rgb(98, 179, 170);
+    width: 24.8%;
+    height: 100px;    
+}
+
+
+
+
+
+
+
+
+
